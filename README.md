@@ -1,2 +1,2 @@
-# change-name
+# Magiocracy
 game with ideographic runic magic system
